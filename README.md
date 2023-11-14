@@ -1,3 +1,5 @@
+ <img align='center' src="fundo-sorria.png" alt="Background Image"/>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!+Wecolme+to+my+profile!&color=DB5D7C)](https://git.io/typing-svg)
 <br>
 
