@@ -66,6 +66,9 @@ Meu background como Arquiteta e Urbanista me ensinou a pensar de forma analític
 ## Contato
 <div> 
   <a href="https://www.linkedin.com/in/amanda-lopes-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-  <a href="https://www.instagram.com/amvlopes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/amvlopes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ **email:**
+  <a href="amandavitor@hotmail.com" target="_blank">amandavitor@hotmail.com</a> 
+
 </div>
   
